@@ -88,7 +88,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels scipy openp
 cd <project_folder>
 jupyter notebook
 ```
-
----
-
-*Built as part of the Adda247 December Data Science batch.*
