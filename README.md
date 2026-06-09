@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28734735/README.md)
 # Data Science Portfolio — Dev Shah
 
 A collection of end-to-end data science projects covering **Statistics**, **Supervised Learning**, and **Unsupervised Learning**. Each project follows a full analytical pipeline — from raw data through cleaning, modelling, evaluation, and actionable business recommendations.
